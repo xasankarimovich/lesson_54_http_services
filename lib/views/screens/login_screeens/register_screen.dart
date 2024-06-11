@@ -1,7 +1,8 @@
 
 import 'package:flutter/material.dart';
-import '../../view_models/users_viewmodels.dart';
-import 'home_screen.dart';
+import '../../../view_models/users_viewmodels.dart';
+import '../../widgets/custom_drawer.dart';
+import '../home_screen.dart';
 import 'login_screen.dart';
 
 class RegisterScreen extends StatefulWidget {

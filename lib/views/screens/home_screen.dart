@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lesson_54/views/screens/register.dart';
+import 'package:lesson_54/views/screens/login_screeens/login_screen.dart';
 import 'package:lottie/lottie.dart';
 import '../../utils/styles.dart';
 
@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
     Future.delayed(const Duration(seconds: 3), () {
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => const Register()),
+        MaterialPageRoute(builder: (context) => const LoginScreen()),
       );
     });
   }

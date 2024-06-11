@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../models/courses_management.dart';
+import '../../../models/courses_management.dart';
+import 'add_course_screen.dart';
 
 
 class CoursesScreen extends StatefulWidget {

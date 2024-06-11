@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 <img src="assets/images/img2.png" width="350" title="hover text">
 <img src="assets/images/img1.png" width="350" title="hover text">
 <img src="assets/lottie/animation.json" width="350" title="hover text">
+<img src="assets/images/img3.png" width="350" title="hover text">
+<img src="assets/images/img4.png" width="350" title="hover text">
+<img src="assets/images/vedio.mp4" width="350" title="hover text">
+
